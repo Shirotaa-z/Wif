@@ -1,6 +1,6 @@
-# ⁦Perbaiki Termusx Sudo / Root (Patcher Tsu)⁩
+# ⁦Perbaiki Termux Sudo / Root (Patcher Tsu)⁩
 
-![⁦Pemandangan⁩](https://komarev.com/ghpvc/?username=ashrafuljoy62-fix-termux-root&label=Repository%20Views&color=0e75b6&style=flat)
+![⁦Pemandangan⁩](https://komarev.com/ghpvc/?username=Shirotaa-z-wif-root&label=Repository%20Views&color=0e75b6&style=flat)
 ![⁦Termux⁩](https://img.shields.io/badge/Termux-Android-green?logo=android)
 ![⁦Akar⁩](https://img.shields.io/badge/Root-Required-red)
 ![⁦Sudo⁩](https://img.shields.io/badge/Fix-Sudo%2FTsu-blue)
@@ -26,7 +26,7 @@
 ⁦Jalankan perintah berikut di terminal termux Anda:⁩
 
 ```bash
-curl -sO [https://raw.githubusercontent.com/ashrafuljoy62/fix-termux-root/main/fix.sh](https://raw.githubusercontent.com/ashrafuljoy62/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
+curl -sO [https://raw.githubusercontent.com/Shirotaa-z/fix-termux-root/main/fix.sh](https://raw.githubusercontent.com/Shirotaa-z/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
 ```
 
 ---
