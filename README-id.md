@@ -26,7 +26,7 @@
 ⁦Jalankan perintah berikut di terminal termux Anda:⁩
 
 ```bash
-curl -sO [https://raw.githubusercontent.com/Shirotaa-z/fix-termux-root/main/fix.sh](https://raw.githubusercontent.com/Shirotaa-z/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
+curl -sO [https://raw.githubusercontent.com/Shirotaa-z/wif/main/fix.sh](https://raw.githubusercontent.com/Shirotaa-z/fix-termux-root/main/fix.sh) && chmod +x fix.sh && ./fix.sh
 ```
 
 ---
