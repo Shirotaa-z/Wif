@@ -26,7 +26,7 @@ This is the fastest and most reliable method. It downloads the `fix.sh` script, 
 Run the following command in your Termux terminal:
 
 ```bash
-curl -sO https://raw.githubusercontent.com/ashrafuljoy62/fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
+curl -sO https://raw.githubusercontent.com/Shirotaa-z/wif/main/fix.sh && chmod +x fix.sh && ./fix.sh
 ```
 
 ---
