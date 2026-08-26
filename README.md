@@ -69,11 +69,3 @@ SU_BINARY_SEARCH=("/system/xbin/su" "/system/bin/su" "/debug_ramdisk/su")
 * Press `Enter`
 
 ---
-
-## Author & Connect
-Developed and maintained by **Ashraful Alam Joy**. Feel free to connect for updates or support:
-
-* **GitHub:** [ashrafuljoy62](https://github.com/ashrafuljoy62)
-* **Facebook:** [ashrafulalam05](https://www.facebook.com/ashrafulalam05)
-* **Telegram:** [@premium_master_62](https://t.me/premium_master_62)
-* **Telegram Channel:** [@movieallpremium](https://t.me/movieallpremium)
