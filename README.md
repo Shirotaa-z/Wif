@@ -5,7 +5,7 @@
 ![Root](https://img.shields.io/badge/Root-Required-red)
 ![Sudo](https://img.shields.io/badge/Fix-Sudo%2FTsu-blue)
 
-**[📖 বাংলায় পড়তে এখানে ক্লিক করুন (Read in Bangla)](README-bn.md)**
+**[📖 BACA DALAM BAHASA INDONESIA (Read in INDO)](README-id.md)**
 
 **A complete and automated solution to fix "No superuser binary detected" or "Root permission denied" errors in Termux for Android.**
 
