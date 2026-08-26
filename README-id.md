@@ -69,11 +69,3 @@ SU_BINARY_SEARCH=("/system/xbin/su" "/system/bin/su" "/debug_ramdisk/su")
 * `Enter` ⁦Tekan⁩
 
 ---
-
-## ⁦Untuk membuat dan memelihara⁩
-⁦Dikembangkan dan mainteen⁩ **⁦Ashraful Alam Joy⁩**⁦. Anda dapat menghubungi pembaruan atau dukungan apa pun:⁩
-
-* **⁦Github:⁩**[⁦ashrafuljoy62⁩](https://github.com/ashrafuljoy62)
-* **⁦Facebook:⁩**[⁦ashrafulalam05⁩](https://www.facebook.com/ashrafulalam05)
-* **⁦Telegram:⁩**[⁦@prmovieallpremium⁩](https://t.me/premium_master_62)
-* **⁦Saluran Telegram:⁩**[⁦@movieallpremium⁩](https://t.me/movieallpremium)
