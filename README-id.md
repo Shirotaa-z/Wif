@@ -5,7 +5,7 @@
 ![⁦Akar⁩](https://img.shields.io/badge/Root-Required-red)
 ![⁦Sudo⁩](https://img.shields.io/badge/Fix-Sudo%2FTsu-blue)
 
-**[⁦📖 Baca dalam Bahasa Inggris (baca dalam bahasa Inggris)⁩](README.md)**
+**[⁦📖 Read In English  (baca dalam bahasa Inggris)⁩](README.md)**
 
 **⁦"Tidak terdeteksi Superuser terdeteksi" di Android Termux atau solusi lengkap dan otomatis untuk masalah "izin root".⁩**
 
